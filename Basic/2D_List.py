@@ -9,6 +9,7 @@ matrix [1][1]=20
 print(matrix[0][0])
 print(matrix[1][1])
 
+
 for row in matrix:
     for item in row:
         print(item)
